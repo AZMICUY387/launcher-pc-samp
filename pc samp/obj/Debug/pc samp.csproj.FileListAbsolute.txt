@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\pc samp\pc samp\bin\Debug\pc samp.exe.config
+C:\Users\Administrator\source\repos\pc samp\pc samp\bin\Debug\pc samp.exe
+C:\Users\Administrator\source\repos\pc samp\pc samp\bin\Debug\pc samp.pdb
+C:\Users\Administrator\source\repos\pc samp\pc samp\obj\Debug\pc samp.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\pc samp\pc samp\obj\Debug\pc_samp.Form1.resources
+C:\Users\Administrator\source\repos\pc samp\pc samp\obj\Debug\pc_samp.Properties.Resources.resources
+C:\Users\Administrator\source\repos\pc samp\pc samp\obj\Debug\pc samp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\pc samp\pc samp\obj\Debug\pc samp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\pc samp\pc samp\obj\Debug\pc samp.exe
+C:\Users\Administrator\source\repos\pc samp\pc samp\obj\Debug\pc samp.pdb
